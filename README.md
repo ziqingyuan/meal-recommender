@@ -1,6 +1,8 @@
 # Meal Recommender
 This program is built on a free API https://www.themealdb.com/api.php
 
+#Contributors: Siwei, Zoe
+
 To use this program,\
 open SWI-Prolog and consult the file,\
 type:\
