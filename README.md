@@ -1,7 +1,7 @@
 # Meal Recommender
 This program is built on a free API https://www.themealdb.com/api.php
 
-# Contributors: 
+#### Contributors: 
 Siwei, Zoe
 
 To use this program,\
