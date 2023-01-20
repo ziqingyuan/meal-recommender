@@ -1,4 +1,4 @@
-# Meal Recommender
+# Meal Recommender (backup)
 This program is built on a free API https://www.themealdb.com/api.php
 
 #### Contributors: 
